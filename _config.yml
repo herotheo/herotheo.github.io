@@ -1,16 +1,16 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            艾拉科技
+longtitle:        艾拉科技产品手册
+author:           艾拉科技
+email:            wangqiang@ailawuyou.com
 description: >
-  Build Jekyll site with the GitBook style.
+  艾拉科技description.
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              'https://www.ailawuyou.com'
+baseurl:          ''
 rss:              RSS
 
 toc:
@@ -40,7 +40,7 @@ kramdown:
 markdown_ext:     markdown,mkdown,mkdn,mkd,md
 
 # Permalinks
-permalink:        /:categories/:year-:month-:day-:title:output_ext
+permalink:        /:categories/:title:output_ext
 
 exclude:
   - _drafts
