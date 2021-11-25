@@ -1,3 +1,9 @@
-_site/
-_draft/
-.jekyll-cache/
+###############
+#    folder   #
+###############
+/**/DROP/
+/**/TEMP/
+/**/packages/
+/**/bin/
+/**/obj/
+_site
