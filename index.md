@@ -4,7 +4,7 @@ layout: default
 
 <div class="row">
   <div class="col-md-8 mb-5">
-    <h2>What We Do</h2>
+    <h2>我们是做什么的？</h2>
     <hr />
     <p>
       主要经营信息安全类、密码应用科技创新产品。其中等保快测平台系统服务于全国的等保测评机构，等保测评机构使用等保快测平台系统的知识库模块、报告模块提供标准统一的检测服务，另外根据客户的需求定制研发的密测系统也将于今年上市。公司的任意链平台、证据链系统是国家互联网信息办公室发布的第二批境内区块链信息服务备案产品。
@@ -19,7 +19,7 @@ layout: default
 <div class="row">
   <div class="col-md-4 mb-5">
     <div class="card border-0 shadow h-100">
-      <img class="card-img-top" src="http://placeholder.pics/svg/400x300/3cb371-3cb371/3cb371-3cb371" alt="" />
+      <img class="card-img-top" src="/image/kuaice.jpg" alt="" />
       <div class="card-body">
         <h4 class="card-title">快速测评辅助系统</h4>
         <p class="card-text">
@@ -27,13 +27,13 @@ layout: default
         </p>
       </div>
       <div class="card-footer">
-        <a href="#" class="btn btn-primary">Find Out More!</a>
+        <a href="#" class="btn btn-primary">关于更多!</a>
       </div>
     </div>
   </div>
   <div class="col-md-4 mb-5">
     <div class="card border-0 shadow h-100">
-      <img class="card-img-top" src="http://placeholder.pics/svg/400x300/3cb371-3cb371/3cb371-3cb371" alt="" />
+      <img class="card-img-top" src="/image/jiancegongjuxiang.jpg" alt="" />
       <div class="card-body">
         <h4 class="card-title">商用密码应用与检测工具箱</h4>
         <p class="card-text">
@@ -42,13 +42,13 @@ layout: default
         </p>
       </div>
       <div class="card-footer">
-        <a href="#" class="btn btn-primary">Find Out More!</a>
+        <a href="#" class="btn btn-primary">关于更多!</a>
       </div>
     </div>
   </div>
   <div class="col-md-4 mb-5">
     <div class="card border-0 shadow h-100">
-      <img class="card-img-top" src="http://placeholder.pics/svg/400x300/3cb371-3cb371/3cb371-3cb371" alt="" />
+      <img class="card-img-top" src="/image/wanguan.jpg" alt="" />
       <div class="card-body">
         <h4 class="card-title">国密网关</h4>
         <p class="card-text">
@@ -56,10 +56,11 @@ layout: default
         </p>
       </div>
       <div class="card-footer">
-        <a href="#" class="btn btn-primary">Find Out More!</a>
+        <a href="#" class="btn btn-primary">关于更多!</a>
       </div>
     </div>
   </div>
 </div>
+
 
 <!-- /.row -->
