@@ -4,14 +4,20 @@ layout: default
 
 <div class="row">
   <div class="col-md-8 mb-5">
-    <h2>我们是做什么的？</h2>
+    <h2>公司主要经营产品</h2>
     <hr />
     <p>
-      主要经营信息安全类、密码应用科技创新产品。其中等保快测平台系统服务于全国的等保测评机构，等保测评机构使用等保快测平台系统的知识库模块、报告模块提供标准统一的检测服务，另外根据客户的需求定制研发的密测系统也将于今年上市。公司的任意链平台、证据链系统是国家互联网信息办公室发布的第二批境内区块链信息服务备案产品。
+      1、快速测评辅助系统（快测）：包括等保模块、密评模块、风评模块、安可模块等，用于检测机构实施网络安全等级保护测评项目实施。
     </p>
-    <a class="btn btn-primary btn-lg" href="#">Call to Action &raquo;</a>
+     <p>
+      2、商用密码应用与检测工具箱：用于商用密码检测机构，软件开发测试机构基于工具箱开展密码应用系统设计、验证、检测的辅助工具。
+     </p>
+      <p>
+      3、新渡-国密WEB应用安全网关：是使用国家密码算法和国际密码算法实现的用于过滤掉浏览器访问服务器时流量中不安全信息的网关产品。
+     </p>
+    <a class="btn btn-primary btn-lg" href="#">关于更多 &raquo;</a>
   </div>
-  {% include sidebar.html %}
+  {% include index_sidebar.html %}
 </div>
 
 <!-- /.row -->
@@ -19,7 +25,7 @@ layout: default
 <div class="row">
   <div class="col-md-4 mb-5">
     <div class="card border-0 shadow h-100">
-      <img class="card-img-top" src="/image/kuaice.jpg" alt="" />
+      <img class="card-img-top" src="/image/kuaice.png" alt="" />
       <div class="card-body">
         <h4 class="card-title">快速测评辅助系统</h4>
         <p class="card-text">
@@ -50,7 +56,7 @@ layout: default
     <div class="card border-0 shadow h-100">
       <img class="card-img-top" src="/image/wanguan.jpg" alt="" />
       <div class="card-body">
-        <h4 class="card-title">国密网关</h4>
+        <h4 class="card-title">新渡-国密WEB应用安全网关</h4>
         <p class="card-text">
           ”新渡-国密WEB应用安全网关“是使用国家密码算法和国际密码算法实现的用于过滤掉浏览器访问服务器时流量中不安全信息的网关产品。满足国家标准《GBT 38636-2020 信息安全技术 传输层密码协议（TLCP）》，作用就像滤水器去除水中危险杂质，使其可以安全饮用一样，“新渡-国密WEB应用安全网关”从 Web 流量中过滤掉不安全的内容，从而阻止网络威胁和数据泄露。它还可阻止未经授权的用户访问。支持基于证书的服务器和客户端身份认证，提供数据在传输过程中的机密性和完整性保护。全面支持SSL/TLS协议，产品自带负载均衡、跨域请求等功能。
         </p>
@@ -61,6 +67,8 @@ layout: default
     </div>
   </div>
 </div>
+
+
 
 
 <!-- /.row -->
