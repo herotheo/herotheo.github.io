@@ -33,7 +33,7 @@ layout: default
   </div>
   <div class="col-md-4 mb-5">
     <div class="card border-0 shadow h-100">
-      <img class="card-img-top" src="http://placeholder.pics/svg/400x300/3cb371-3cb371/3cb371-3cb371" alt="" />
+      <img class="card-img-top" src="/image/gongju.jpg" alt="" />
       <div class="card-body">
         <h4 class="card-title">商用密码应用与检测工具箱</h4>
         <p class="card-text">
