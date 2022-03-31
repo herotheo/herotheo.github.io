@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /services/
+permalink: /kuaice/
 ---
 
 ## 服务说明

@@ -1,6 +1,15 @@
 - title: 首页
   link: /
 
+- title: 快侧平台
+  link: "/kuaice/"
+
+- title: 密码工具箱
+  link: "/gongjuxiang/"
+
+- title: 国密网关
+  link: "/wangguan/"
+
 - title: 关于我们
   link: /about/
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /services/
+permalink: /wangguan/
 ---
 
 ## 服务说明

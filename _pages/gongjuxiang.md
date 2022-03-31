@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /services/
+permalink: /gongjuxiang/
 ---
 
 ## 服务说明
