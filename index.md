@@ -11,8 +11,9 @@ layout: default
     </p>
     <a class="btn btn-primary btn-lg" href="#">关于更多 &raquo;</a>
   </div>
-  {% include sidebar.html %}
+  {% include index_sidebar.html %}
 </div>
+
 
 <!-- /.row -->
 
