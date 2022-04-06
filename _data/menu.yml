@@ -1,10 +1,10 @@
 - title: 首页
   link: /
 
-- title: 快侧平台
+- title: 快测平台
   link: "/kuaice/"
 
-- title: 密码工具箱
+- title: 商密工具箱
   link: "/gongjuxiang/"
 
 - title: 国密网关
@@ -12,9 +12,3 @@
 
 - title: 关于我们
   link: /about/
-
-- title: 解决方案
-  link: "/services/"
-
-- title: 联系我们
-  link: "/contact/"
