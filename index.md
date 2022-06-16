@@ -67,7 +67,9 @@ layout: default
       .buju {
     display: flex;
     flex-direction: row;
+           width: 100%;
   }
+
   #bujuzi1 {
     flex-grow: 1;
   }
@@ -88,9 +90,8 @@ layout: default
           <img class="card-img-top" src="/image/kuaice.png" alt="" />
         </div>
       </div>
-      <div class="col-md-4 mb-5" id="bujuzi2"  style="margin-left: 50px;">
+      <div class="col-md-4 mb-5 id="bujuzi2"  style="margin-left: 50px;">
         <div class="card border-0 shadow h-100">
-          <img class="card-img-top" src="/image/kuaice.png" alt="" />
           <div class="card-body">
             <p class="card-text">
               快测系统xxxxx
