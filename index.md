@@ -63,34 +63,44 @@ layout: default
 </div>
 
 
+
 <style>
-      .buju {
+   .buju {
     display: flex;
     flex-direction: row;
-           width: 100%;
-  }
-
-  #bujuzi1 {
+     width: 100%;
+    flex-wrap: wrap;
+  } 
+    #bujuzi1 {
     flex-grow: 1;
   }
-
   #bujuzi2 {
     flex-grow: 2;
+
   }
+
+.img1{
+
+ max-width:180px;
+    max-height:180px;
+    width:auto;
+    height:auto;
+
+  margin:4px;
+
+}
+
 </style>
 
- <div class="row">解决方案</div>
+  <h3 style="width:100%;text-align: center;">解决方案</h3>
   <div class="row">
     <div class="buju">
       <div class="col-md-4 mb-5" id="bujuzi1">
         <div class="card border-0 shadow h-100">
-          <div class="card-body">
-            <h4 class="card-title">快速测评辅助系统</h4>
-          </div>
           <img class="card-img-top" src="/image/kuaice.png" alt="" />
         </div>
       </div>
-      <div class="col-md-4 mb-5 id="bujuzi2"  style="margin-left: 50px;">
+      <div class="mb-5" id="bujuzi2">
         <div class="card border-0 shadow h-100">
           <div class="card-body">
             <p class="card-text">
@@ -99,11 +109,104 @@ layout: default
           </div>
         </div>
       </div>
-    </div>  </div> 
+    </div>
+      <div class="buju">
+      <div class="col-md-4 mb-5" id="bujuzi1">
+        <div class="card border-0 shadow h-100">
+          <img class="card-img-top" src="/image/kuaice.png" alt="" />
+        </div>
+      </div>
+      <div class="mb-5" id="bujuzi2">
+        <div class="card border-0 shadow h-100">
+          <div class="card-body">
+            <p class="card-text">
+              商用密码应用与检测工具箱xxxxx
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+      <div class="buju">
+      <div class="col-md-4 mb-5" id="bujuzi1">
+        <div class="card border-0 shadow h-100">
+          <img class="card-img-top" src="/image/kuaice.png" alt="" />
+        </div>
+      </div>
+      <div class="mb-5" id="bujuzi2">
+        <div class="card border-0 shadow h-100">
+          <div class="card-body">
+            <p class="card-text">
+              新渡-国密安全WEB网关（GMSWG）xxxxx
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 
+  <h3 style="width:100%;text-align: center;">合作客户</h3>
 
+<div class="row">
+<div class="buju">
+      <div class="" id="bujuzi" style="text-align: center;">
+         <img class="img1 img-object"  src="/image/guojiaxinxi.png" alt="" />
+    </div>
 
+ <div class="" id="bujuzi" style="text-align: center;">
+  <img class="img1 img-object " src="/image/guojiadianwang.png"  alt="" />
+</div>
 
+ <div class="" id="bujuzi" style="text-align: center;">
+    <img class="img1 img-object " src="/image/nanfangdianwang.png"  alt="" />
+</div>
 
+ <div class="" id="bujuzi" style="text-align: center;">
+    <img class="img1 img-object " src="/image/shandongliantong.png"  alt="" />
+</div>
+ <div class="" id="bujuzi" style="text-align: center;">
+    <img class="img1 img-object " src="/image/guojiaguanli.png"  alt="" />
+</div>
+ <div class="" id="bujuzi" style="text-align: center;">
+    <img class="img1 img-object " src="/image/yanjiuyuan.png.png"  alt="" />
+</div>
+ <div class="" id="bujuzi" style="text-align: center;">
+    <img class="img1 img-object " src="/image/ruicheng.png"  alt="" />
+</div>   
+<div class="" id="bujuzi" style="text-align: center;">
+         <img class="img1 img-object"  src="/image/guojiaxinxi.png" alt="" />
+    </div>  
+<div class="" id="bujuzi" style="text-align: center;">
+         <img class="img1 img-object"  src="/image/guojiaxinxi.png" alt="" />
+    </div>  
+<div class="" id="bujuzi" style="text-align: center;">
+         <img class="img1 img-object"  src="/image/guojiaxinxi.png" alt="" />
+    </div> 
+<div class="" id="bujuzi" style="text-align: center;">
+         <img class="img1 img-object"  src="/image/guojiaxinxi.png" alt="" />
+    </div>  
+<div class="" id="bujuzi" style="text-align: center;">
+         <img class="img1 img-object"  src="/image/guojiaxinxi.png" alt="" />
+    </div>  
+<div class="" id="bujuzi" style="text-align: center;">
+         <img class="img1 img-object"  src="/image/guojiaxinxi.png" alt="" />
+    </div><div class="" id="bujuzi" style="text-align: center;">
+         <img class="img1 img-object"  src="/image/guojiaxinxi.png" alt="" />
+    </div>  
+<div class="" id="bujuzi" style="text-align: center;">
+         <img class="img1 img-object"  src="/image/guojiaxinxi.png" alt="" />
+    </div>  
+<div class="" id="bujuzi" style="text-align: center;">
+         <img class="img1 img-object"  src="/image/guojiaxinxi.png" alt="" />
+    </div> 
+<div class="" id="bujuzi" style="text-align: center;">
+         <img class="img1 img-object"  src="/image/guojiaxinxi.png" alt="" />
+    </div>  
+<div class="" id="bujuzi" style="text-align: center;">
+         <img class="img1 img-object"  src="/image/guojiaxinxi.png" alt="" />
+    </div>  
+<div class="" id="bujuzi" style="text-align: center;">
+         <img class="img1 img-object"  src="/image/guojiaxinxi.png" alt="" />
+    </div>
+</div>
 
 <!-- /.row -->
