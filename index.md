@@ -63,6 +63,63 @@ layout: default
 </div>
 
 
+<style>
+      .buju {
+    display: flex;
+    flex-direction: row;
+  }
+  #bujuzi1 {
+    flex-grow: 1;
+  }
+
+  #bujuzi1 {
+    flex-grow: 2;
+  }
+</style>
+
+ <div class="row">解决方案</div>
+  <div class="row">
+    <div class="buju">
+      <div class="col-md-4 mb-5" id="bujuzi1">
+        <div class="card border-0 shadow h-100">
+          <div class="card-body">
+            <h4 class="card-title">快速测评辅助系统</h4>
+          </div>
+          <img class="card-img-top" src="/image/kuaice.png" alt="" />
+        </div>
+      </div>
+      <div class="col-md-4 mb-5" id="bujuzi2">
+        <div class="card border-0 shadow h-100">
+          <img class="card-img-top" src="/image/kuaice.png" alt="" />
+          <div class="card-body">
+            <p class="card-text">
+              快测系统xxxxx
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>    </div>
+
+
+
+
+    <div class="col-md-4 mb-5" style="margin-left: 50px;">
+      <div class="card border-0 shadow h-100">
+        <img class="card-img-top" src="/image/jiancegongjuxiang.jpg" alt="" />
+        <div class="card-body">
+          <h4 class="card-title">商用密码应用与检测工具箱</h4>
+          <p class="card-text">
+            商用密码应用与检测工具箱是国内仅有的一款包含大量的国外密码算法实现，以及全部国内密码算法的应用软件，而且仍在不停地有新的算法添加进去。同时工具箱包含了非常丰富的密码算法应用分析、协议分析、数据分析功能，并将各个模块融会贯通，对科研人员、安全系统开发设计测试工程师、商用密码检测工程师、密码初学者等带来极大的便利和帮助。
+          </p>
+        </div>
+        <div class="card-footer">
+          <a href="#" class="btn btn-primary">更多!</a>
+        </div>
+      </div>
+    </div>
+
+
+
 
 
 
