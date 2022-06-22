@@ -20,7 +20,7 @@ layout: default
 <div class="row">
   <div class="col-md-4 mb-5">
     <div class="card border-0 shadow h-100">
-      <img class="card-img-top" src="/image/kuaice.png" alt="" />
+      <img class="card-img-top" src="/image/kuaice.jpg" alt="" />
       <div class="card-body">
         <h4 class="card-title">快速测评辅助系统</h4>
         <p class="card-text">
@@ -48,7 +48,7 @@ layout: default
   </div>
   <div class="col-md-4 mb-5">
     <div class="card border-0 shadow h-100">
-      <img class="card-img-top" src="/image/wanguan.jpg" alt="" />
+      <img class="card-img-top" src="/image/wangguan.jpg" alt="" />
       <div class="card-body">
         <h4 class="card-title">新渡-国密安全WEB网关（GMSWG）</h4>
         <p class="card-text">
