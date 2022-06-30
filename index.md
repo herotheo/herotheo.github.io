@@ -204,9 +204,6 @@ layout: default
 <div class="" id="bujuzi" style="text-align: center;">
          <img class="img1 img-object"  src="/image/hezuo/r.jpg" alt="" />
     </div>  
-<div class="" id="bujuzi" style="text-align: center;">
-         <img class="img1 img-object"  src="/image/hezuo/guojiaxinxi.png" alt="" />
-    </div>
 
 </div>
 
