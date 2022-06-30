@@ -149,64 +149,65 @@ layout: default
 <div class="row">
 <div class="buju">
       <div class="" id="bujuzi" style="text-align: center;">
-         <img class="img1 img-object"  src="/image/guojiaxinxi.png" alt="" />
+         <img class="img1 img-object"  src="/image//a.jpg" alt="" />
     </div>
 
  <div class="" id="bujuzi" style="text-align: center;">
-  <img class="img1 img-object " src="/image/guojiadianwang.png"  alt="" />
+  <img class="img1 img-object " src="/image//b.jpg"  alt="" />
 </div>
 
  <div class="" id="bujuzi" style="text-align: center;">
-    <img class="img1 img-object " src="/image/nanfangdianwang.png"  alt="" />
+    <img class="img1 img-object " src="/image//c.png"  alt="" />
 </div>
 
  <div class="" id="bujuzi" style="text-align: center;">
-    <img class="img1 img-object " src="/image/shandongliantong.png"  alt="" />
+    <img class="img1 img-object " src="/image//d.jpg"  alt="" />
 </div>
  <div class="" id="bujuzi" style="text-align: center;">
-    <img class="img1 img-object " src="/image/guojiaguanli.png"  alt="" />
+    <img class="img1 img-object " src="/image//e.jpg"  alt="" />
 </div>
  <div class="" id="bujuzi" style="text-align: center;">
-    <img class="img1 img-object " src="/image/yanjiuyuan.png.png"  alt="" />
+    <img class="img1 img-object " src="/image//f.jpg"  alt="" />
 </div>
  <div class="" id="bujuzi" style="text-align: center;">
-    <img class="img1 img-object " src="/image/ruicheng.png"  alt="" />
+    <img class="img1 img-object " src="/image//g.jpg"  alt="" />
 </div>   
 <div class="" id="bujuzi" style="text-align: center;">
-         <img class="img1 img-object"  src="/image/guojiaxinxi.png" alt="" />
+         <img class="img1 img-object"  src="/image//h.jpg" alt="" />
     </div>  
 <div class="" id="bujuzi" style="text-align: center;">
-         <img class="img1 img-object"  src="/image/guojiaxinxi.png" alt="" />
+         <img class="img1 img-object"  src="/image//i.jpg" alt="" />
     </div>  
 <div class="" id="bujuzi" style="text-align: center;">
-         <img class="img1 img-object"  src="/image/guojiaxinxi.png" alt="" />
+         <img class="img1 img-object"  src="/image//j.jpg" alt="" />
     </div> 
 <div class="" id="bujuzi" style="text-align: center;">
-         <img class="img1 img-object"  src="/image/guojiaxinxi.png" alt="" />
+         <img class="img1 img-object"  src="/image//k.jpg" alt="" />
     </div>  
 <div class="" id="bujuzi" style="text-align: center;">
-         <img class="img1 img-object"  src="/image/guojiaxinxi.png" alt="" />
+         <img class="img1 img-object"  src="/image//l.jpg" alt="" />
     </div>  
 <div class="" id="bujuzi" style="text-align: center;">
-         <img class="img1 img-object"  src="/image/guojiaxinxi.png" alt="" />
+         <img class="img1 img-object"  src="/image//m.jpg" alt="" />
     </div><div class="" id="bujuzi" style="text-align: center;">
-         <img class="img1 img-object"  src="/image/guojiaxinxi.png" alt="" />
+         <img class="img1 img-object"  src="/image//n.jpg" alt="" />
     </div>  
 <div class="" id="bujuzi" style="text-align: center;">
-         <img class="img1 img-object"  src="/image/guojiaxinxi.png" alt="" />
+         <img class="img1 img-object"  src="/image//o.jpg" alt="" />
     </div>  
 <div class="" id="bujuzi" style="text-align: center;">
-         <img class="img1 img-object"  src="/image/guojiaxinxi.png" alt="" />
+         <img class="img1 img-object"  src="/image//p.jpg" alt="" />
     </div> 
 <div class="" id="bujuzi" style="text-align: center;">
-         <img class="img1 img-object"  src="/image/guojiaxinxi.png" alt="" />
+         <img class="img1 img-object"  src="/image//q.jpg" alt="" />
     </div>  
 <div class="" id="bujuzi" style="text-align: center;">
-         <img class="img1 img-object"  src="/image/guojiaxinxi.png" alt="" />
+         <img class="img1 img-object"  src="/image//r.jpg" alt="" />
     </div>  
 <div class="" id="bujuzi" style="text-align: center;">
          <img class="img1 img-object"  src="/image/guojiaxinxi.png" alt="" />
     </div>
+
 </div>
 
 <!-- /.row -->
