@@ -149,63 +149,63 @@ layout: default
 <div class="row">
 <div class="buju">
       <div class="" id="bujuzi" style="text-align: center;">
-         <img class="img1 img-object"  src="/image//a.jpg" alt="" />
+         <img class="img1 img-object"  src="/image/hezuo/a.jpg" alt="" />
     </div>
 
  <div class="" id="bujuzi" style="text-align: center;">
-  <img class="img1 img-object " src="/image//b.jpg"  alt="" />
+  <img class="img1 img-object " src="/image/hezuo/b.jpg"  alt="" />
 </div>
 
  <div class="" id="bujuzi" style="text-align: center;">
-    <img class="img1 img-object " src="/image//c.png"  alt="" />
+    <img class="img1 img-object " src="/image/hezuo/c.png"  alt="" />
 </div>
 
  <div class="" id="bujuzi" style="text-align: center;">
-    <img class="img1 img-object " src="/image//d.jpg"  alt="" />
+    <img class="img1 img-object " src="/image/hezuo/d.jpg"  alt="" />
 </div>
  <div class="" id="bujuzi" style="text-align: center;">
-    <img class="img1 img-object " src="/image//e.jpg"  alt="" />
+    <img class="img1 img-object " src="/image/hezuo/e.jpg"  alt="" />
 </div>
  <div class="" id="bujuzi" style="text-align: center;">
-    <img class="img1 img-object " src="/image//f.jpg"  alt="" />
+    <img class="img1 img-object " src="/image/hezuo/f.jpg"  alt="" />
 </div>
  <div class="" id="bujuzi" style="text-align: center;">
-    <img class="img1 img-object " src="/image//g.jpg"  alt="" />
+    <img class="img1 img-object " src="/image/hezuo/g.jpg"  alt="" />
 </div>   
 <div class="" id="bujuzi" style="text-align: center;">
-         <img class="img1 img-object"  src="/image//h.jpg" alt="" />
+         <img class="img1 img-object"  src="/image/hezuo/h.jpg" alt="" />
     </div>  
 <div class="" id="bujuzi" style="text-align: center;">
-         <img class="img1 img-object"  src="/image//i.jpg" alt="" />
+         <img class="img1 img-object"  src="/image/hezuo/i.jpg" alt="" />
     </div>  
 <div class="" id="bujuzi" style="text-align: center;">
-         <img class="img1 img-object"  src="/image//j.jpg" alt="" />
+         <img class="img1 img-object"  src="/image/hezuo/j.jpg" alt="" />
     </div> 
 <div class="" id="bujuzi" style="text-align: center;">
-         <img class="img1 img-object"  src="/image//k.jpg" alt="" />
+         <img class="img1 img-object"  src="/image/hezuo/k.jpg" alt="" />
     </div>  
 <div class="" id="bujuzi" style="text-align: center;">
-         <img class="img1 img-object"  src="/image//l.jpg" alt="" />
+         <img class="img1 img-object"  src="/image/hezuo/l.jpg" alt="" />
     </div>  
 <div class="" id="bujuzi" style="text-align: center;">
-         <img class="img1 img-object"  src="/image//m.jpg" alt="" />
+         <img class="img1 img-object"  src="/image/hezuo/m.jpg" alt="" />
     </div><div class="" id="bujuzi" style="text-align: center;">
-         <img class="img1 img-object"  src="/image//n.jpg" alt="" />
+         <img class="img1 img-object"  src="/image/hezuo/n.jpg" alt="" />
     </div>  
 <div class="" id="bujuzi" style="text-align: center;">
-         <img class="img1 img-object"  src="/image//o.jpg" alt="" />
+         <img class="img1 img-object"  src="/image/hezuo/o.jpg" alt="" />
     </div>  
 <div class="" id="bujuzi" style="text-align: center;">
-         <img class="img1 img-object"  src="/image//p.jpg" alt="" />
+         <img class="img1 img-object"  src="/image/hezuo/p.jpg" alt="" />
     </div> 
 <div class="" id="bujuzi" style="text-align: center;">
-         <img class="img1 img-object"  src="/image//q.jpg" alt="" />
+         <img class="img1 img-object"  src="/image/hezuo/q.jpg" alt="" />
     </div>  
 <div class="" id="bujuzi" style="text-align: center;">
-         <img class="img1 img-object"  src="/image//r.jpg" alt="" />
+         <img class="img1 img-object"  src="/image/hezuo/r.jpg" alt="" />
     </div>  
 <div class="" id="bujuzi" style="text-align: center;">
-         <img class="img1 img-object"  src="/image/guojiaxinxi.png" alt="" />
+         <img class="img1 img-object"  src="/image/hezuo/guojiaxinxi.png" alt="" />
     </div>
 
 </div>
