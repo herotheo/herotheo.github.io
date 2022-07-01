@@ -1,20 +1,6 @@
 ---
 layout: default
 ---
-
-<div class="row">
-  <div class="col-md-8 mb-5">
-    <h2>我们是做什么的？</h2>
-    <hr />
-    <p>
-      主要经营信息安全类、密码应用科技创新产品。其中等保快测平台系统服务于全国的等保测评机构，等保测评机构使用等保快测平台系统的知识库模块、报告模块提供标准统一的检测服务，另外根据客户的需求定制研发的密测系统也将于今年上市。公司的任意链平台、证据链系统是国家互联网信息办公室发布的第二批境内区块链信息服务备案产品。
-    </p>
-    <a class="btn btn-primary btn-lg" href="#">关于更多 &raquo;</a>
-  </div>
-  {% include index_sidebar.html %}
-</div>
-
-
 <!-- /.row -->
 
 <div class="row">
