@@ -86,7 +86,7 @@ layout: default
     <div class="buju">
       <div class="col-md-4 mb-5" id="bujuzi1">
         <div class="card border-0 shadow h-100">
-          <img class="card-img-top" src="/image/jiejuefangan/kuaice.png" alt="" />
+          <img class="card-img-top" src="/image/jiejuefangan/kuaice.png" style="height:100%" alt="" />
         </div>
       </div>
       <div class="mb-5" id="bujuzi2">
@@ -107,7 +107,7 @@ layout: default
       <div class="buju">
       <div class="col-md-4 mb-5" id="bujuzi1">
         <div class="card border-0 shadow h-100">
-          <img class="card-img-top" src="/image/jiejuefangan/mice.png" alt="" />
+          <img class="card-img-top" src="/image/jiejuefangan/mice.png" style="height:100%" alt="" />
         </div>
       </div>
       <div class="mb-5" id="bujuzi2">
@@ -124,7 +124,7 @@ layout: default
       <div class="buju">
       <div class="col-md-4 mb-5" id="bujuzi1">
         <div class="card border-0 shadow h-100">
-          <img class="card-img-top" src="/image/jiejuefangan/wangguan.png" alt="" />
+          <img class="card-img-top" src="/image/jiejuefangan/wangguan.png" alt="" style="height:100%" />
         </div>
       </div>
       <div class="mb-5" id="bujuzi2">
